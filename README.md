@@ -2,7 +2,8 @@
 Use this Repository as a template for creating Local Chapter Repositories
 
 
-# [Chapter Challenge Name]
+# Detecting and Mitigating Traffic Accidents using Machine Learning and Traffic Accident Data
+
 
 
 ## Contribution Guidelines
