@@ -1,0 +1,372 @@
+Cause of Crash,Causes of Car Crashes,Year,Casualty
+Drivers,Following to close from behind,2010,1862
+Drivers,Reversing negligently,2010,1563
+Drivers,Losing Control,2010,1204
+Drivers,Failing to comply with traffic sign or,2010,710
+Drivers,Unlicensed driver,2010,590
+Drivers,Influence of drinks or drugs,2010,492
+Drivers,Overtaking improperly,2010,423
+Drivers,Over speeding,2010,384
+Drivers,Turning without care,2010,297
+Drivers,U - turning,2010,135
+Drivers,Fatigued or asleep,2010,83
+Drivers,Swerving to the left/right carelessly,2010,32
+Drivers,Cyclist error,2010,32
+Drivers,Dazzled by oncoming traffic lights,2010,21
+Drivers,Overloading,2010,19
+Drivers,Physical defective,2010,0
+Drivers,Stopping suddenly,2010,7
+Drivers,Negligence of PSV driver,2010,7
+Drivers,Pulling off the road without care,2010,6
+Drivers,Negligently opening vehicle door,2010,3
+Drivers,"Hampered by passenger, animal or",2010,2
+Drivers,Other driver negligence,2010,7056
+Pedestrian,Crossing without care,2010,327
+Pedestrian,Under influence of drinks or drugs,2010,49
+Pedestrian,Walking or standing on the road,2010,19
+Pedestrian,Playing on the road,2010,17
+Pedestrian,Slipping or falling when crossing the,2010,3
+Pedestrian,Sudden illness,2010,2
+Pedestrian,Holding on to a vehicle,2010,1
+Pedestrian,Sleeping on the road,2010,0
+Pedestrian,Other pedestrian negligence,2010,104
+Passenger,Falling from a vehicle,2010,25
+Passenger,Boarding or alighting without care,2010,11
+Passenger,Under influence of drinks or drugs,2010,3
+Passenger,Stealing a ride,2010,2
+Passenger,Other passenger negligence,2010,52
+Animals,Cattle on the road,2010,1883
+Animals,Dog on the road,2010,167
+Animals,Animal in the Vehicle,2010,6
+Animals,Other animal on the road,2010,539
+Obstructions,Stationary vehicle dangerously placed,2010,3
+Obstructions,Collision with vehicle already involved,2010,4
+Obstructions,Other obstructions,2010,167
+Defects,Tyre burst,2010,222
+Defects,Defect unattended vehicle running,2010,11
+Defects,Physical defective,2010,8
+Defects,Other defects,2010,249
+Weather,Road surface type,2010,81
+Weather,Roads pot holes,2010,58
+Weather,Heavy rain,2010,13
+Weather,Strong wind,2010,6
+Weather,Other weather factors,2010,11
+Weather,Use of Cell phone while driving,2010,7
+Drivers,Following to close from behind,2011,2281
+Drivers,Reversing negligently,2011,1363
+Drivers,Losing Control,2011,1382
+Drivers,Failing to comply with traffic sign or,2011,631
+Drivers,Unlicensed driver,2011,569
+Drivers,Influence of drinks or drugs,2011,429
+Drivers,Overtaking improperly,2011,427
+Drivers,Over speeding,2011,269
+Drivers,Turning without care,2011,264
+Drivers,U - turning,2011,116
+Drivers,Fatigued or asleep,2011,59
+Drivers,Swerving to the left/right carelessly,2011,30
+Drivers,Cyclist error,2011,38
+Drivers,Dazzled by oncoming traffic lights,2011,8
+Drivers,Overloading,2011,8
+Drivers,Physical defective,2011,8
+Drivers,Stopping suddenly,2011,6
+Drivers,Negligence of PSV driver,2011,5
+Drivers,Pulling off the road without care,2011,2
+Drivers,Negligently opening vehicle door,2011,1
+Drivers,"Hampered by passenger, animal or",2011,2
+Drivers,Other driver negligence,2011,6569
+Pedestrian,Crossing without care,2011,291
+Pedestrian,Under influence of drinks or drugs,2011,53
+Pedestrian,Walking or standing on the road,2011,18
+Pedestrian,Playing on the road,2011,16
+Pedestrian,Slipping or falling when crossing the,2011,1
+Pedestrian,Sudden illness,2011,4
+Pedestrian,Holding on to a vehicle,2011,2
+Pedestrian,Sleeping on the road,2011,1
+Pedestrian,Other pedestrian negligence,2011,98
+Passenger,Falling from a vehicle,2011,29
+Passenger,Boarding or alighting without care,2011,8
+Passenger,Under influence of drinks or drugs,2011,2
+Passenger,Stealing a ride,2011,2
+Passenger,Other passenger negligence,2011,36
+Animals,Cattle on the road,2011,1694
+Animals,Dog on the road,2011,143
+Animals,Animal in the Vehicle,2011,1
+Animals,Other animal on the road,2011,449
+Obstructions,Stationary vehicle dangerously placed,2011,0
+Obstructions,Collision with vehicle already involved,2011,1
+Obstructions,Other obstructions,2011,157
+Defects,Tyre burst,2011,181
+Defects,Defect unattended vehicle running,2011,19
+Defects,Physical defective,2011,0
+Defects,Other defects,2011,171
+Weather,Road surface type,2011,95
+Weather,Roads pot holes,2011,33
+Weather,Heavy rain,2011,8
+Weather,Strong wind,2011,3
+Weather,Other weather factors,2011,15
+Weather,Use of Cell phone while driving,2011,3
+Drivers,Following to close from behind,2012,2532
+Drivers,Reversing negligently,2012,1373
+Drivers,Losing Control,2012,1422
+Drivers,Failing to comply with traffic sign or,2012,703
+Drivers,Unlicensed driver,2012,553
+Drivers,Influence of drinks or drugs,2012,518
+Drivers,Overtaking improperly,2012,401
+Drivers,Over speeding,2012,268
+Drivers,Turning without care,2012,156
+Drivers,U - turning,2012,108
+Drivers,Fatigued or asleep,2012,67
+Drivers,Swerving to the left/right carelessly,2012,27
+Drivers,Cyclist error,2012,32
+Drivers,Dazzled by oncoming traffic lights,2012,13
+Drivers,Overloading,2012,10
+Drivers,Physical defective,2012,13
+Drivers,Stopping suddenly,2012,2
+Drivers,Negligence of PSV driver,2012,9
+Drivers,Pulling off the road without care,2012,2
+Drivers,Negligently opening vehicle door,2012,0
+Drivers,"Hampered by passenger, animal or",2012,1
+Drivers,Other driver negligence,2012,6053
+Pedestrian,Crossing without care,2012,209
+Pedestrian,Under influence of drinks or drugs,2012,60
+Pedestrian,Walking or standing on the road,2012,7
+Pedestrian,Playing on the road,2012,16
+Pedestrian,Slipping or falling when crossing the,2012,1
+Pedestrian,Sudden illness,2012,0
+Pedestrian,Holding on to a vehicle,2012,1
+Pedestrian,Sleeping on the road,2012,1
+Pedestrian,Other pedestrian negligence,2012,88
+Passenger,Falling from a vehicle,2012,33
+Passenger,Boarding or alighting without care,2012,6
+Passenger,Under influence of drinks or drugs,2012,0
+Passenger,Stealing a ride,2012,4
+Passenger,Other passenger negligence,2012,40
+Animals,Cattle on the road,2012,1600
+Animals,Dog on the road,2012,143
+Animals,Animal in the Vehicle,2012,2
+Animals,Other animal on the road,2012,442
+Obstructions,Stationary vehicle dangerously placed,2012,2
+Obstructions,Collision with vehicle already involved,2012,3
+Obstructions,Other obstructions,2012,169
+Defects,Tyre burst,2012,163
+Defects,Defect unattended vehicle running,2012,7
+Defects,Physical defective,2012,2
+Defects,Other defects,2012,162
+Weather,Road surface type,2012,60
+Weather,Roads pot holes,2012,23
+Weather,Heavy rain,2012,4
+Weather,Strong wind,2012,4
+Weather,Other weather factors,2012,11
+Weather,Use of Cell phone while driving,2012,1
+Drivers,Following to close from behind,2013,2591
+Drivers,Reversing negligently,2013,1398
+Drivers,Losing Control,2013,1457
+Drivers,Failing to comply with traffic sign or,2013,658
+Drivers,Unlicensed driver,2013,524
+Drivers,Influence of drinks or drugs,2013,643
+Drivers,Overtaking improperly,2013,374
+Drivers,Over speeding,2013,208
+Drivers,Turning without care,2013,197
+Drivers,U - turning,2013,80
+Drivers,Fatigued or asleep,2013,58
+Drivers,Swerving to the left/right carelessly,2013,19
+Drivers,Cyclist error,2013,36
+Drivers,Dazzled by oncoming traffic lights,2013,11
+Drivers,Overloading,2013,13
+Drivers,Physical defective,2013,12
+Drivers,Stopping suddenly,2013,2
+Drivers,Negligence of PSV driver,2013,5
+Drivers,Pulling off the road without care,2013,1
+Drivers,Negligently opening vehicle door,2013,4
+Drivers,"Hampered by passenger, animal or",2013,0
+Drivers,Other driver negligence,2013,5558
+Pedestrian,Crossing without care,2013,202
+Pedestrian,Under influence of drinks or drugs,2013,65
+Pedestrian,Walking or standing on the road,2013,4
+Pedestrian,Playing on the road,2013,14
+Pedestrian,Slipping or falling when crossing the,2013,4
+Pedestrian,Sudden illness,2013,0
+Pedestrian,Holding on to a vehicle,2013,0
+Pedestrian,Sleeping on the road,2013,2
+Pedestrian,Other pedestrian negligence,2013,59
+Passenger,Falling from a vehicle,2013,47
+Passenger,Boarding or alighting without care,2013,18
+Passenger,Under influence of drinks or drugs,2013,3
+Passenger,Stealing a ride,2013,2
+Passenger,Other passenger negligence,2013,38
+Animals,Cattle on the road,2013,1537
+Animals,Dog on the road,2013,165
+Animals,Animal in the Vehicle,2013,1
+Animals,Other animal on the road,2013,486
+Obstructions,Stationary vehicle dangerously placed,2013,9
+Obstructions,Collision with vehicle already involved,2013,0
+Obstructions,Other obstructions,2013,160
+Defects,Tyre burst,2013,136
+Defects,Defect unattended vehicle running,2013,0
+Defects,Physical defective,2013,0
+Defects,Other defects,2013,174
+Weather,Road surface type,2013,50
+Weather,Roads pot holes,2013,27
+Weather,Heavy rain,2013,1
+Weather,Strong wind,2013,4
+Weather,Other weather factors,2013,3
+Weather,Use of Cell phone while driving,2013,2
+Drivers,Following to close from behind,2014,2533
+Drivers,Reversing negligently,2014,1341
+Drivers,Losing Control,2014,1583
+Drivers,Failing to comply with traffic sign or,2014,715
+Drivers,Unlicensed driver,2014,550
+Drivers,Influence of drinks or drugs,2014,675
+Drivers,Overtaking improperly,2014,361
+Drivers,Over speeding,2014,99
+Drivers,Turning without care,2014,91
+Drivers,U - turning,2014,82
+Drivers,Fatigued or asleep,2014,54
+Drivers,Swerving to the left/right carelessly,2014,9
+Drivers,Cyclist error,2014,25
+Drivers,Dazzled by oncoming traffic lights,2014,2
+Drivers,Overloading,2014,8
+Drivers,Physical defective,2014,7
+Drivers,Stopping suddenly,2014,0
+Drivers,Negligence of PSV driver,2014,0
+Drivers,Pulling off the road without care,2014,1
+Drivers,Negligently opening vehicle door,2014,2
+Drivers,"Hampered by passenger, animal or",2014,2
+Drivers,Other driver negligence,2014,5690
+Pedestrian,Crossing without care,2014,188
+Pedestrian,Under influence of drinks or drugs,2014,70
+Pedestrian,Walking or standing on the road,2014,6
+Pedestrian,Playing on the road,2014,10
+Pedestrian,Slipping or falling when crossing the,2014,1
+Pedestrian,Sudden illness,2014,
+Pedestrian,Holding on to a vehicle,2014,1
+Pedestrian,Sleeping on the road,2014,0
+Pedestrian,Other pedestrian negligence,2014,37
+Passenger,Falling from a vehicle,2014,41
+Passenger,Boarding or alighting without care,2014,10
+Passenger,Under influence of drinks or drugs,2014,1
+Passenger,Stealing a ride,2014,0
+Passenger,Other passenger negligence,2014,38
+Animals,Cattle on the road,2014,1432
+Animals,Dog on the road,2014,150
+Animals,Animal in the Vehicle,2014,0
+Animals,Other animal on the road,2014,270
+Obstructions,Stationary vehicle dangerously placed,2014,0
+Obstructions,Collision with vehicle already involved,2014,0
+Obstructions,Other obstructions,2014,127
+Defects,Tyre burst,2014,133
+Defects,Defect unattended vehicle running,2014,17
+Defects,Physical defective,2014,0
+Defects,Other defects,2014,148
+Weather,Road surface type,2014,76
+Weather,Roads pot holes,2014,37
+Weather,Heavy rain,2014,2
+Weather,Strong wind,2014,5
+Weather,Other weather factors,2014,10
+Weather,Use of Cell phone while driving,2014,1
+Drivers,Following to close from behind,2015,2449
+Drivers,Reversing negligently,2015,1365
+Drivers,Losing Control,2015,1525
+Drivers,Failing to comply with traffic sign or,2015,707
+Drivers,Unlicensed driver,2015,721
+Drivers,Influence of drinks or drugs,2015,631
+Drivers,Overtaking improperly,2015,338
+Drivers,Over speeding,2015,188
+Drivers,Turning without care,2015,164
+Drivers,U - turning,2015,105
+Drivers,Fatigued or asleep,2015,78
+Drivers,Swerving to the left/right carelessly,2015,13
+Drivers,Cyclist error,2015,47
+Drivers,Dazzled by oncoming traffic lights,2015,5
+Drivers,Overloading,2015,7
+Drivers,Physical defective,2015,7
+Drivers,Stopping suddenly,2015,6
+Drivers,Negligence of PSV driver,2015,4
+Drivers,Pulling off the road without care,2015,0
+Drivers,Negligently opening vehicle door,2015,2
+Drivers,"Hampered by passenger, animal or",2015,0
+Drivers,Other driver negligence,2015,6279
+Pedestrian,Crossing without care,2015,
+Pedestrian,Under influence of drinks or drugs,2015,53
+Pedestrian,Walking or standing on the road,2015,10
+Pedestrian,Playing on the road,2015,3
+Pedestrian,Slipping or falling when crossing the,2015,0
+Pedestrian,Sudden illness,2015,0
+Pedestrian,Holding on to a vehicle,2015,0
+Pedestrian,Sleeping on the road,2015,2
+Pedestrian,Other pedestrian negligence,2015,62
+Passenger,Falling from a vehicle,2015,30
+Passenger,Boarding or alighting without care,2015,14
+Passenger,Under influence of drinks or drugs,2015,2
+Passenger,Stealing a ride,2015,4
+Passenger,Other passenger negligence,2015,34
+Animals,Cattle on the road,2015,1655
+Animals,Dog on the road,2015,136
+Animals,Animal in the Vehicle,2015,1
+Animals,Other animal on the road,2015,229
+Obstructions,Stationary vehicle dangerously placed,2015,0
+Obstructions,Collision with vehicle already involved,2015,0
+Obstructions,Other obstructions,2015,167
+Defects,Tyre burst,2015,138
+Defects,Defect unattended vehicle running,2015,11
+Defects,Physical defective,2015,0
+Defects,Other defects,2015,133
+Weather,Road surface type,2015,37
+Weather,Roads pot holes,2015,24
+Weather,Heavy rain,2015,2
+Weather,Strong wind,2015,3
+Weather,Other weather factors,2015,3
+Weather,Use of Cell phone while driving,2015,3
+Drivers,Following to close from behind,2016,2619
+Drivers,Reversing negligently,2016,1297
+Drivers,Losing Control,2016,1657
+Drivers,Failing to comply with traffic sign or,2016,793
+Drivers,Unlicensed driver,2016,697
+Drivers,Influence of drinks or drugs,2016,593
+Drivers,Overtaking improperly,2016,407
+Drivers,Over speeding,2016,168
+Drivers,Turning without care,2016,175
+Drivers,U - turning,2016,124
+Drivers,Fatigued or asleep,2016,57
+Drivers,Swerving to the left/right carelessly,2016,32
+Drivers,Cyclist error,2016,28
+Drivers,Dazzled by oncoming traffic lights,2016,5
+Drivers,Overloading,2016,4
+Drivers,Physical defective,2016,21
+Drivers,Stopping suddenly,2016,6
+Drivers,Negligence of PSV driver,2016,1
+Drivers,Pulling off the road without care,2016,4
+Drivers,Negligently opening vehicle door,2016,3
+Drivers,"Hampered by passenger, animal or",2016,1
+Drivers,Other driver negligence,2016,6643
+Pedestrian,Crossing without care,2016,272
+Pedestrian,Under influence of drinks or drugs,2016,51
+Pedestrian,Walking or standing on the road,2016,12
+Pedestrian,Playing on the road,2016,11
+Pedestrian,Slipping or falling when crossing the,2016,2
+Pedestrian,Sudden illness,2016,0
+Pedestrian,Holding on to a vehicle,2016,4
+Pedestrian,Sleeping on the road,2016,1
+Pedestrian,Other pedestrian negligence,2016,70
+Passenger,Falling from a vehicle,2016,21
+Passenger,Boarding or alighting without care,2016,7
+Passenger,Under influence of drinks or drugs,2016,0
+Passenger,Stealing a ride,2016,2
+Passenger,Other passenger negligence,2016,46
+Animals,Cattle on the road,2016,1691
+Animals,Dog on the road,2016,150
+Animals,Animal in the Vehicle,2016,1
+Animals,Other animal on the road,2016,214
+Obstructions,Stationary vehicle dangerously placed,2016,0
+Obstructions,Collision with vehicle already involved,2016,0
+Obstructions,Other obstructions,2016,124
+Defects,Tyre burst,2016,126
+Defects,Defect unattended vehicle running,2016,12
+Defects,Physical defective,2016,0
+Defects,Other defects,2016,134
+Weather,Road surface type,2016,45
+Weather,Roads pot holes,2016,26
+Weather,Heavy rain,2016,11
+Weather,Strong wind,2016,2
+Weather,Other weather factors,2016,2
+Weather,Use of Cell phone while driving,2016,1
